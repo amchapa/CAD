@@ -1,0 +1,29 @@
+{
+  "name": "cad",
+  "version": "1.0.0",
+  "description": "Sistema de biblioteca Java CAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amchapa/CAD.git"
+  },
+  "keywords": [
+    "Java",
+    "Swing",
+    "SQL",
+    "SDK",
+    "spring",
+    "Desktop",
+    "jvm",
+    "algorithm"
+  ],
+  "author": "Angy Milagros Chapa Principe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amchapa/CAD/issues"
+  },
+  "homepage": "https://github.com/amchapa/CAD#readme"
+}
