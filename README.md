@@ -1,5 +1,3 @@
-<img src="https://github.com/amchapa/CAD/blob/master/Images/Fondos/INICIO3.jpg?raw=true" alt="CAD banner" align="center" />
-
 <br />
 
 <div align="center"><strong>Library system</strong></div>
